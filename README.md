@@ -1,4 +1,4 @@
-# Hi there, I'm Donald Mwanga 👋
+# Hi there, 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Donald+Mwanga;Software+Engineer;Backend+Developer;Frontend+Developer;Full+Stack+Developer;UI%2FUX+Designer)
 
