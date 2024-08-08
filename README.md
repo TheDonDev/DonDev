@@ -32,11 +32,11 @@ I'm a results-oriented Software Engineer with 8 years of experience designing an
 to deliver solutions that have demonstrably improved efficiency by reducing API response time by 50 milliseconds and optimizing server-side code performance. I also increased system uptime by 99.5% to improve system reliability and developed a scalable architecture that can handle 100,000 concurrent users.
 
 ## Quote of The Day:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Contributions in the last year
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dontoue&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dontoue&show_icons=true&theme=dark)
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
