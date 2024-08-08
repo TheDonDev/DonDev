@@ -28,10 +28,10 @@ I'm a results-oriented Software Engineer with 8 years of experience designing an
 
 ### Version Control:
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) **Version Control Systems**: GIT
-- to deliver solutions that have demonstrably improved efficiency by reducing API response time by 50 milliseconds and optimizing server-side code performance. I also increased system uptime by 99.5% to improve system reliability and developed a scalable architecture that can handle 100,000 concurrent users.
+to deliver solutions that have demonstrably improved efficiency by reducing API response time by 50 milliseconds and optimizing server-side code performance. I also increased system uptime by 99.5% to improve system reliability and developed a scalable architecture that can handle 100,000 concurrent users.
 
 ## Quote of The Day:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radiant)
 
 ## Contributions in the last year
 
