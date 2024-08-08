@@ -36,7 +36,7 @@ to deliver solutions that have demonstrably improved efficiency by reducing API 
 
 ## Contributions in the last year
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dontoue&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dontoue&show_icons=true&theme=tokyonight)
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
