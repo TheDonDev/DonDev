@@ -29,6 +29,9 @@ I'm a results-oriented Software Engineer with 8 years of experience designing an
 ### Version Control:
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) **Version Control Systems**: GIT
 
+## Daily Tech Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## Contributions in the last year
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dontoue&show_icons=true&theme=radical)
