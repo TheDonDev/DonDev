@@ -43,6 +43,7 @@ I deliver solutions that have demonstrably improved efficiency by reducing API r
 ## Contributions in the Last Year
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=radical&include_all_commits=true)
 
+
 ## Total Stats:
 ![Metrics](https://github.com/TheDonDev/TheDonDev/blob/main/github-metrics.svg)
 
