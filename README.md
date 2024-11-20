@@ -40,8 +40,14 @@ I deliver solutions that have demonstrably improved efficiency by reducing API r
 ## Quote of The Day:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## Contributions in the last year:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=radical)
+## Contributions in the Last Year
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDonDev&show_icons=true&theme=radical&include_all_commits=true)
+
+## Total Stats:
+![Metrics](https://github.com/TheDonDev/TheDonDev/blob/main/github-metrics.svg)
+
+## GitHub Profile Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheDonDev&theme=radical&margin-w=15)
 
 ## Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donald-mwanga-4bb5abba)
