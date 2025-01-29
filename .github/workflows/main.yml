@@ -1,34 +1,31 @@
-name: GitHub Metrics
+name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
+      - name: Update README with GitHub Stats
+        run: |
+          # Fetch the latest README.md
+          curl -o README.md "https://raw.githubusercontent.com/TheDonDev/TheDonDev/main/README.md"
+          
+          # Update the GitHub Stats section
+          sed -i 's|<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheDonDev&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true">|<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheDonDev&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;cache_seconds=1800">|' README.md
 
-      - name: Generate Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: repository
-          template: classic
-          config_timezone: UTC
-
-      - name: Metrics embed
-        uses: lowlighter/metrics@v3.34
-            
-
-
-                      
-            
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update README with latest GitHub stats'
+          git push
