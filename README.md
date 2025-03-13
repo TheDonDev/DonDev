@@ -1,6 +1,6 @@
 # Hi there, I'm Donald Mwanga 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+Engineer;Software+Engineer;Backend+Developer;Frontend+Developer;Full+Stack+Developer;UI%2FUX+Designer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+Scientists;Software+Engineer;Backend+Developer;Frontend+Developer;Full+Stack+Developer;UI%2FUX+Designer)
 
 I'm a results-oriented Software Engineer with 8 years of experience designing and developing impactful software applications. I leverage my strong coding skills in:
 
